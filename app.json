@@ -6,9 +6,9 @@
     "best",
     "force sub Bot"
   ],
-  "success_url": "https://github.com/MRK-YT/Force-Subs-Telegram-bot",
+  "success_url": "https://github.com/Iamsreerag/Force-Subs-Telegram-bo",
   "website": "https://github.com/MRK-YT/Force-Subs-Telegram-bot",
-  "repository": "https://github.com/MRK-YT/Force-Subs-Telegram-bot",
+  "repository": "https://github.com/Iamsreerag/Force-Subs-Telegram-bo",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
